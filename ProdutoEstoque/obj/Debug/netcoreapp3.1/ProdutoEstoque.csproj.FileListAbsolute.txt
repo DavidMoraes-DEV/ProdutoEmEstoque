@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.exe
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.deps.json
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.dll
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\bin\Debug\netcoreapp3.1\ProdutoEstoque.pdb
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.dll
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.pdb
+C:\ProgramasCSharp\ConceitoDeClasses\ClassesObjetosAtributos\ProdutoEstoque\ProdutoEstoque\ProdutoEstoque\obj\Debug\netcoreapp3.1\ProdutoEstoque.genruntimeconfig.cache
